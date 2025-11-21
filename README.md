@@ -9,10 +9,10 @@
          
    ### Se adjunta el Manual de Protocolo
    [[Manual de Protocolo de Emergencia y Evacuación](MODIFICA - AQUI VA LA DIRECCION COMPARTIDA DEL ARCHIVO)]
-   
+   [(https://docs.google.com/document/d/1Jfhp20ccJ-BTAfLcXXdyQhEzzbQnB5heVicTLgee91Y/edit?usp=sharing)]
    ### Se adjunta una muestra de Control Indice de Accidentes e Incidentes
    [[Control Indice de Accidentes e Incidentes](MODIFICA - AQUI VA LA DIRECCION COMPARTIDA DEL ARCHIVO)]
-   
+   [(https://docs.google.com/spreadsheets/d/16RW6m_9r4tXlzoAzAlFOT1dV3W1avOR5F10UNR4SYJg/edit?usp=sharing)]
    ### Presentaciones sobre Protocolo de Emergencia y Evacuación.
    [[Presentaciones](MODIFICA - AQUI VA LA DIRECCION COMPARTIDA DEL ARCHIVO)]
    
